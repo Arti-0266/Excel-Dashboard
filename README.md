@@ -65,7 +65,7 @@ This dashboard provides a comprehensive analysis of cookie sales data, helping t
 
 ### How to Use
 -	Open the Excel Dashboard.xlsx file containing the dashboard.
-   [Download link]()  
+   [Download link](https://github.com/Arti-0266/Excel-Dashboard/blob/main/Excel%20Dashboard.xlsx)  
 
 -	Use the filters (slicers) to explore data by cookie type or state.
 -	Analyze the visualizations to derive insights into sales and profit trends
