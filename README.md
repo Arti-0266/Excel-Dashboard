@@ -51,7 +51,11 @@ This dashboard provides a comprehensive analysis of cookie sales data, helping t
 
 ### Tools & Technologies
 - Microsoft Excel: Used to create and design the dashboard.
-- Data Source: "Cookie Types.xlsx", "Customers.xlsx", "Order.xlsx"
+- Data Source:
+   "Cookie Types.xlsx"    [Download link](https://github.com/Arti-0266/Excel-Dashboard/blob/main/Cookie%20Types.xlsx)  
+   "Customers.xlsx"    [Download link]( https://github.com/Arti-0266/Excel-Dashboard/blob/main/Customers.xlsx)  
+   "Order.xlsx"    [Download link]( https://github.com/Arti-0266/Excel-Dashboard/blob/main/Orders.xlsx)  
+
 -	Visualizations: Bar charts, line charts, and geographical maps created using 
    Excel's charting tools.
 
